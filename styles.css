@@ -1,0 +1,28 @@
+*{
+    color:aliceblue;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.color-title{
+    font-weight: normal;
+}
+#red{
+    color: red;
+}
+#blue{
+    color: rgb(139, 159, 240);
+}
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}
+html{
+    background-color: black;
+}
